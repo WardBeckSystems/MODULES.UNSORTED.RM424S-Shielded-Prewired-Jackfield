@@ -1,5 +1,5 @@
 # 19xx - RM424S - Archived - wbsps - promo - rm424s patch bay - 004.jpg
-Wiki page: [RM424S](../../../PAGES/RM424S.md)
+Wiki page: [RM424S](../../../../PAGES/RM424S.md)
 
 
 - **Year:** unknown (unknown)
@@ -55,7 +55,7 @@ RM424S
 
 ```json
 {
- "file": "Modules/UNSORTED/RM424S/19xx - RM424S - Archived - wbsps - promo - rm424s patch bay - 004.jpg",
+ "file": "Modules/UNSORTED/RM424S/PHOTOS/19xx - RM424S - Archived - wbsps - promo - rm424s patch bay - 004.jpg",
  "sha256": "ef6f1034bb8122f9d23cddb518fb72fda48d2501a6c3b3782ac5b7ba2a6c40f5",
  "kind": "module",
  "models": [

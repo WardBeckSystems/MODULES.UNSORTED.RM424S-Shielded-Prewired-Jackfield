@@ -1,5 +1,5 @@
 # wbsps - promo - rm424s patch bay - 002.jpg
-Wiki page: [RM424S](../../../PAGES/RM424S.md)
+Wiki page: [RM424S](../../../../PAGES/RM424S.md)
 
 
 - **Year:** unknown (title block (read by eye))
@@ -63,7 +63,7 @@ WbspS,C:
 
 ```json
 {
- "file": "Modules/UNSORTED/RM424S/wbsps - promo - rm424s patch bay - 002.jpg",
+ "file": "Modules/UNSORTED/RM424S/PHOTOS/wbsps - promo - rm424s patch bay - 002.jpg",
  "sha256": "01dbf744308ee77ea336578ecee77031166d09b405589f7e1ae189c2b8b4f29c",
  "kind": "module",
  "models": [

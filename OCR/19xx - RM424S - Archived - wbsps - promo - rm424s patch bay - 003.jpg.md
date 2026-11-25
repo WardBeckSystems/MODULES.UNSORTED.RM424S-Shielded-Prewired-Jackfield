@@ -1,5 +1,5 @@
 # 19xx - RM424S - Archived - wbsps - promo - rm424s patch bay - 003.jpg
-Wiki page: [RM424S](../../../PAGES/RM424S.md)
+Wiki page: [RM424S](../../../../PAGES/RM424S.md)
 
 
 - **Year:** unknown (unknown)
@@ -23,7 +23,7 @@ RM424S SHIELDED PREWIRED JACKFIELD
 
 ```json
 {
- "file": "Modules/UNSORTED/RM424S/19xx - RM424S - Archived - wbsps - promo - rm424s patch bay - 003.jpg",
+ "file": "Modules/UNSORTED/RM424S/PHOTOS/19xx - RM424S - Archived - wbsps - promo - rm424s patch bay - 003.jpg",
  "sha256": "59317d0bf1098f30eebdc0783ccab2bc2c1d1a0749c3275991240ad4e3edc3bd",
  "kind": "module",
  "models": [

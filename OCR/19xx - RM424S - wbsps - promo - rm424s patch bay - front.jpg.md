@@ -1,5 +1,5 @@
 # 19xx - RM424S - wbsps - promo - rm424s patch bay - front.jpg
-Wiki page: [RM424S](../../../PAGES/RM424S.md)
+Wiki page: [RM424S](../../../../PAGES/RM424S.md)
 
 
 - **Year:** unknown (unknown)
@@ -53,7 +53,7 @@ Tip, ring; and sleeve circuits, as well as associated normals, wired to high qua
 
 ```json
 {
- "file": "Modules/UNSORTED/RM424S/19xx - RM424S - wbsps - promo - rm424s patch bay - front.jpg",
+ "file": "Modules/UNSORTED/RM424S/PHOTOS/19xx - RM424S - wbsps - promo - rm424s patch bay - front.jpg",
  "sha256": "5acd035766814398dd0d474b1e54d57f701ed6fccd9b0be6fedba3e2ef357a7f",
  "kind": "module",
  "models": [

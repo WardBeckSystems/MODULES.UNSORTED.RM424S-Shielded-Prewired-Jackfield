@@ -1,5 +1,5 @@
 # 19xx - RM424S - wbspatch0.jpg
-Wiki page: [RM424S](../../../PAGES/RM424S.md)
+Wiki page: [RM424S](../../../../PAGES/RM424S.md)
 
 
 - **Year:** unknown (unknown)
@@ -23,7 +23,7 @@ Wiki page: [RM424S](../../../PAGES/RM424S.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/RM424S/19xx - RM424S - wbspatch0.jpg",
+ "file": "Modules/UNSORTED/RM424S/PHOTOS/19xx - RM424S - wbspatch0.jpg",
  "sha256": "360719be74e82093786be9fb6b30c1e8f62ad663b2fb19682781a2fb69ccea4d",
  "kind": "module",
  "models": [
