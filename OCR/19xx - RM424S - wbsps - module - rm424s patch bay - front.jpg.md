@@ -57,7 +57,7 @@ Tip ring; and sleeve circuits, well associated narmals, wircd higt quality telep
 
 ```json
 {
- "file": "Modules/UNSORTED/RM424S/PHOTOS/19xx - RM424S - wbsps - module - rm424s patch bay - front.jpg",
+ "file": "Modules/UNSORTED/RM424S/MANUALS/19xx - RM424S - wbsps - module - rm424s patch bay - front.jpg",
  "sha256": "5bafb07d8c62d21e026888746889830bd1b98eb2004bff0737617b0204431d11",
  "kind": "module",
  "models": [
