@@ -8,3 +8,4 @@ __pycache__/
 *.o
 *.obj
 *.tmp
+SOFTWARE/plugin/target/
