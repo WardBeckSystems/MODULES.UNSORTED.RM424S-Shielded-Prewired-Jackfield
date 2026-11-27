@@ -13,6 +13,18 @@ Ward-Beck Systems RM424S, 1975|8. Wiki page: [RM424S on WBSps.ca](https://wardbe
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [19xx - RM424S - wbsps - promo - rm424s patch bay - back.jpg](PHOTOS/19xx%20-%20RM424S%20-%20wbsps%20-%20promo%20-%20rm424s%20patch%20bay%20-%20back.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Accessories** | RM424TB Double Bracket assembly and 6 screws designed to mount terminal block and to permit swivelling to left or right assembly RM424B Horizontal Rack Bars designed to mount up to 4 vertical terminal blocks pair |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

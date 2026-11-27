@@ -1,0 +1,17 @@
+{
+ "module": "RM424S",
+ "title": "JACKFIELD WIRING SCHEMATIC",
+ "source": {
+  "file": "PHOTOS/19xx - RM424S - wbsps - promo - rm424s patch bay - back.jpg",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "RM424TB Double Bracket assembly and 6 screws designed to mount terminal block and to permit swivelling to left or right assembly RM424B Horizontal Rack Bars designed to mount up to 4 vertical terminal blocks pair"
+  }
+ ]
+}
