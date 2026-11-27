@@ -1,11 +1,11 @@
-# RM424S · Unsorted
+# RM424S Shielded Prewired Jackfield · Unsorted
 
 Ward-Beck Systems RM424S, 1975|8. Wiki page: [RM424S on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/RM424S.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
@@ -35,7 +35,7 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKa2lsVGtmMmRlRTA/view?resourcekey=0-MtGWP32p59UKraGE4bZqvw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKa2lsVGtmMmRlRTA&resourcekey=0-MtGWP32p59UKraGE4bZqvw" width="240" alt="19xx - RM424S - wbsps - promo - rm424s patch bay - back.jpg"></a><br><sub>19xx - RM424S - wbsps - promo - rm424s patch bay - back</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [19xx - RM424S - wbsps - module - rm424s patch bay - back](https://drive.google.com/file/d/0B0yR0b5T78SKZGpWX3dNXzd3UkU/view?resourcekey=0-4ob7VbFv2BJuKRmnhDhkyQ) · [19xx - RM424S - wbsps - module - rm424s patch bay - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKc0RaOS0zeHVFN28/view?resourcekey=0-KFHYezTYxe_-HX5qPXFRAw) · [19xx - RM424S - wbsps - promo - rm424s patch bay - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKdElxSTRpS19SYlE/view?resourcekey=0-e3F_lVvuNhB8BYmDD87n2w)
+Shared privately on Google Drive (opens after sign-in): [19xx - RM424S - wbsps - module - rm424s patch bay - back](https://drive.google.com/file/d/0B0yR0b5T78SKZGpWX3dNXzd3UkU/view?resourcekey=0-4ob7VbFv2BJuKRmnhDhkyQ) · [19xx - RM424S - wbsps - promo - rm424s patch bay - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKdElxSTRpS19SYlE/view?resourcekey=0-e3F_lVvuNhB8BYmDD87n2w)
 
 Not on Google Drive yet: `19xx - RM424S - RM424S.jpg`, `wbsps - promo - rm424s patch bay - 002.jpg`
 
