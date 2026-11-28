@@ -4,13 +4,10 @@ Ward-Beck Systems RM424S, 1975|8. Wiki page: [RM424S on WBSps.ca](https://wardbe
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 12 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -37,8 +34,6 @@ _Photographs of the module itself: front, back, inside, racked._
 
 Shared privately on Google Drive (opens after sign-in): [19xx - RM424S - wbsps - module - rm424s patch bay - back](https://drive.google.com/file/d/0B0yR0b5T78SKZGpWX3dNXzd3UkU/view?resourcekey=0-4ob7VbFv2BJuKRmnhDhkyQ) · [19xx - RM424S - wbsps - promo - rm424s patch bay - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKdElxSTRpS19SYlE/view?resourcekey=0-e3F_lVvuNhB8BYmDD87n2w)
 
-Not on Google Drive yet: `19xx - RM424S - RM424S.jpg`, `wbsps - promo - rm424s patch bay - 002.jpg`
-
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
@@ -54,7 +49,6 @@ Shared privately on Google Drive (opens after sign-in): [19xx - RM424S - wbsps -
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [RM424S.kicad_sym](KICAD/RM424S.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
