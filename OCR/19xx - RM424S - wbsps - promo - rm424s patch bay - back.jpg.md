@@ -1,5 +1,5 @@
 # 19xx - RM424S - wbsps - promo - rm424s patch bay - back.jpg
-Wiki page: [RM424S](../../../../PAGES/RM424S.md)
+Wiki page: [RM424S](../)
 
 
 - **Year:** unknown (unknown)

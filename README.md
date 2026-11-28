@@ -1,6 +1,6 @@
 # RM424S Shielded Prewired Jackfield · Unsorted
 
-Ward-Beck Systems RM424S, 1975|8. Wiki page: [RM424S on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/RM424S.html)
+Ward-Beck Systems RM424S, 1975|8. Wiki page: [RM424S on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.RM424S-Shielded-Prewired-Jackfield/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # wbsps - promo - rm424s patch bay - 002.jpg
-Wiki page: [RM424S](../../../../PAGES/RM424S.md)
+Wiki page: [RM424S](../)
 
 
 - **Year:** unknown (title block (read by eye))
